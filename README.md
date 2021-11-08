@@ -16,11 +16,13 @@
 
 **About me**
 
-- 💼 Student at [1337](https://www.1337.ma/en/) school
+- 💼 👨🏽‍💻 I’m [1337 School](https://www.1337.ma/en/) student
 
 - 📈 I have worked with Flutter and Dart since 2019.
 
 - ❤️ I love Developing Beautufil apps with flutter.
+
+- 💬 Ask me about anything, I would be happy to help:)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdeljalil-Bouchfar&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
