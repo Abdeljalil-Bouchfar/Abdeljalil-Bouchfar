@@ -16,7 +16,7 @@
 
 **About me**
 
-- 💼 👨🏽‍💻 I’m [1337 School](https://www.1337.ma/en/) student
+- 👨🏽‍💻 I’m [1337 School](https://www.1337.ma/en/) student
 
 - 📈 I have worked with Flutter and Dart since 2019.
 
