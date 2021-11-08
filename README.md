@@ -22,7 +22,7 @@
 
 - ❤️ I love Developing Beautufil apps with flutter.
 
-- 💬 Ask me about anything, I would be happy to help 😊.
+- 😊 Ask me about anything, I would be happy to help.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdeljalil-Bouchfar&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
