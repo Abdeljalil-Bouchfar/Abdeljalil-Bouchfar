@@ -27,7 +27,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdeljalil-Bouchfar&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-santana&layout=compact&theme=onedark)](https://github.com/paulo-santana)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeljalil-Bouchfar&layout=compact&theme=onedark)](https://github.com/Abdeljalil-Bouchfar)
 
 
 **Languages and Tools:**  
