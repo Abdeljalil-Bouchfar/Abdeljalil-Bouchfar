@@ -1,6 +1,9 @@
 ## Hi there, I'm Abdeljalil Bouchfar - aka [abouchfa] 👋 
 
 <p align="center">
+   <a href="https://github.com/Abdeljalil-Bouchfar">
+    <img src="https://hit.yhype.me/github/profile?user_id=1849174" />
+  </a>
   <a href="https://github.com/Abdeljalil-Bouchfar">
     <img src="https://img.shields.io/github/followers/Abdeljalil-Bouchfar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
