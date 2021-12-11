@@ -1,6 +1,7 @@
 ## Hi there, I'm Abdeljalil Bouchfar - aka [abouchfa] 👋 
 
 <p align="center">
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   <a href="https://github.com/Abdeljalil-Bouchfar">
     <img src="https://img.shields.io/github/followers/Abdeljalil-Bouchfar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
