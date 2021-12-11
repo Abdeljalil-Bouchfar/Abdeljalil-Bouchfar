@@ -1,6 +1,6 @@
 ## Hi there, I'm Abdeljalil Bouchfar - aka [abouchfa] 👋 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Abdeljalil-Bouchfar)
 
 <p align="center">
 <!--     <a href="https://github.com/Abdeljalil-Bouchfar">
