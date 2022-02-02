@@ -28,7 +28,7 @@
 - 😊 Ask me about anything, I would be happy to help.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdeljalil-Bouchfar&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdeljalil-Bouchfar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeljalil-Bouchfar&layout=compact&theme=radical)](https://github.com/Abdeljalil-Bouchfar)
 
